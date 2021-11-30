@@ -4,7 +4,7 @@
 ### Contact
 
 pedroantoniak@gmail.com <br/>
-https://twitter.com/pedroantoniak
+twitter.com/pedroantoniak
 
 ### Education
 
