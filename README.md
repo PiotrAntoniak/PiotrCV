@@ -1,6 +1,6 @@
-## Welcome to my CV
+## Piotr Antoniak
 
-Piotr Antoniak <br />
+
 pedroantoniak@gmail.com <br />
 https://twitter.com/pedroantoniak <br />
 
@@ -20,9 +20,6 @@ https://twitter.com/pedroantoniak <br />
 ### Side projects
 
 
+### Certificates 
 
-
-
-
-
-### Random stuff about me
+### Random stuff 
