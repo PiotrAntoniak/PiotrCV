@@ -1,8 +1,8 @@
 ## Piotr Antoniak
 
 
-<link>pedroantoniak@gmail.com</link> <br />
-<link>https://twitter.com/pedroantoniak</link> <br />
+email: (pedroantoniak@gmail.com)  <br />
+(https://twitter.com/pedroantoniak) <br />
 
 ### Education
 
