@@ -1,6 +1,6 @@
 ### Contact
 
-pedroantoniak@gmail.com 
+pedroantoniak@gmail.com <br/>
 https://twitter.com/pedroantoniak
 
 ### Education
