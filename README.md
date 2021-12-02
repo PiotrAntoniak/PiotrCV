@@ -14,7 +14,7 @@ Thesis: Predictive power in online investing chatter.
 
 #### Bachelor’s Degree; Aberystwyth University, 2017-20.
 
-Thesis: Evaluation of the post-crisis monetary policy in the USA using Taylor rules. (First class)
+Thesis: Evaluation of the post-crisis monetary policy in the USA using Taylor rules. 
 (Keywords: monetary policy, Taylor Rule, Zero-Bound)
 ### Work
 
