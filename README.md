@@ -1,6 +1,3 @@
-# PIOTR ANTONIAK
-
-
 ### Contact
 
 pedroantoniak@gmail.com <br/>
