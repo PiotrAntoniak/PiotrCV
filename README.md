@@ -27,15 +27,15 @@ October 2017 – June 2020:
 
 ### Skills
 
-Python libraries: 
--	Numpy, Scikit-learn, Pandas, Matplotlib, Tensorflow/Keras, pytorch, statsmodels, Scipy, NLTK, spaCy, Hugging Face and Sentence-Transformers.
-
-
 ML/DL/Cloud computing:
 -	SVMs, Decision Trees and Random Forests, Boosting Methods, Neural Networks, unsupervised techniques. 
 -	Experience working with BERT/RoBERTa.
 -	Explainable AI. 
 -	Amazon Web Services and SageMaker.
+
+Python libraries: 
+-	Numpy, Scikit-learn, Pandas, Matplotlib, Tensorflow/Keras, pytorch, statsmodels, Scipy, NLTK, spaCy, Hugging Face and Sentence-Transformers.
+
 
 Using Google.
 
