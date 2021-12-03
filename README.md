@@ -47,7 +47,7 @@ Other:
 
 ### Side projects
 
-[EconBERTa - teaching computer to understand language of economics.](https://github.com/PiotrAntoniak/EconBERTa/blob/main/EconBERTa.pdf)
+[EconBERTa - teaching computer to understand the language of economics.](https://github.com/PiotrAntoniak/EconBERTa/blob/main/EconBERTa.pdf)
 
 [Predictive power in online investing chatter.](https://github.com/PiotrAntoniak/M_T/blob/main/PiotrAntoniak_MT_070621.pdf)
 
