@@ -17,8 +17,8 @@ Thesis: Evaluation of the post-crisis monetary policy in the USA using Taylor ru
 (Keywords: monetary policy, Taylor Rule, Zero-Bound)
 ### Work
 
-October 2021 – Now:
--	Financial Services Business Model Development Data Analyst Intern at BMW (DS intern). Mostly working with textual data (customers reviews, chatbots) but not limited to it. 
+#### Financial Services Business Model Development Data Analyst Intern at BMW (DS intern), October 2021 – Now:
+
 -	Statistical Analysis, Modeling, Predicting, and building databases tailored for use cases and providing basic GUI / executables to present in front of stakeholders. 
 -	Deploying Machine Learning models to AWS, using Lambda Services, EC2 and SageMaker.
 
