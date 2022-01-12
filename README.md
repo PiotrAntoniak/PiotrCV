@@ -30,7 +30,7 @@ Projects that I have worked on:
 - Building a search and retrieval system for an internal knowledge data,
 - Customer feedback: 
   - mapping out most popular topics in a zero-shot manner, 
-  - working on overmileage issues - a ML model for an BMW customer mobile app that warns users about potential costs
+  - working on overmileage issues - a ML model for a BMW customer mobile app that warns users about potential fees
 
 
 October 2017 – June 2020:
