@@ -29,9 +29,8 @@ Projects that I have worked on:
   - visualizing network for personal information (such as email, address),
 - Building a search and retrieval system for an internal knowledge data,
 - Customer feedback: 
-  - mapping out most popular topics in a zero-shot manner, 
-  - working on overmileage issues - a ML model for a BMW customer mobile app that warns users about potential fees
-
+  - mapping out most popular topics in an unsupervissed and zero-shot manner, 
+  - working on how to avoid having people being unhappy about certain issues (required predictive ML)
 
 October 2017 – June 2020:
 -	Part time job in hospitality – barista, bartender, kitchen porter for two years. One year in charge of the evening kitchen.
