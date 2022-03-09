@@ -23,14 +23,15 @@ Thesis: Evaluation of the post-crisis monetary policy in the USA using Taylor ru
 -	Statistical Analysis, Modeling, Predicting, and building databases tailored for use cases and providing basic GUI / executables to present in front of stakeholders. 
 -	Deploying MVP ML models to AWS, using Lambda Services, EC2 and SageMaker.
 
-Projects that I have worked on:
-- Fraud detection for car dealerships: 
-  - explainable AI for predictions delivered by xgboost model, 
-  - visualizing network for personal information (such as email, address),
-- Building a search and retrieval system for an internal knowledge data,
-- Customer feedback: 
-  - mapping out most popular topics in an unsupervissed and zero-shot manner, 
-  - working on how to avoid having people being unhappy about certain issues (required predictive ML)
+Project I worked on:
+-	Fraud detection for car dealerships: explainable AI for predictions delivered by xgboost model, visualizing network for personal information (such as email or address),
+
+-	Building a search and retrieval system for internal data drive and confluence page,
+
+-	Customer feedback: mapping out most popular topics in an unsupervised and zero-shot manner, worked on how to avoid people being unhappy about certain issues (which included basic ML), replacing old model that classified feedback with a SOTA transformer
+
+-	Customer Lifetime Value for dealerships and predicting whether the customer will return
+
 
 October 2017 – June 2020:
 -	Part time job in hospitality – barista, bartender, kitchen porter for two years. One year in charge of the evening kitchen.
@@ -61,6 +62,8 @@ Other:
 
 [Predictive power in online investing chatter.](https://github.com/PiotrAntoniak/M_T/blob/main/PiotrAntoniak_MT_070621.pdf)
 
+[Open Domain QA from PDFs – working demo.](https://huggingface.co/spaces/ThePixOne/open_domain_qa)
+
 [Simple chatbot from scratch.*](https://github.com/PiotrAntoniak/simple_chatbot)
 
 [Forecasting with regularized VARs.*](https://github.com/PiotrAntoniak/Forecasting-with-regularized-VARs)
@@ -77,3 +80,4 @@ Other:
 -	Experience trading alternative assets (2017-2018) and options (2019-2020),
 -	Awarded the Second Place in The Export Challenge organized by the Transport Department (Swansea, November 2018),
 -	Ability to work in UK – settled status.
+-	Mentor at DeepLearning.ai
