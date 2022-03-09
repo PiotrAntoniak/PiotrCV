@@ -21,7 +21,7 @@ Thesis: Evaluation of the post-crisis monetary policy in the USA using Taylor ru
 #### Financial Services Business Model Development Data Analyst Praktikum at BMW, October 2021 – Now:
 
 -	Statistical Analysis, Modeling, Predicting, and building databases tailored for use cases and providing basic GUI / executables to present in front of stakeholders. 
--	Deploying MVP ML models to AWS, using Lambda Services, EC2 and SageMaker.
+-	Deploying Minimum Value Project ML models to AWS, using Lambda Services, EC2 and SageMaker.
 
 Project I worked on:
 -	Fraud detection for car dealerships: explainable AI for predictions delivered by xgboost model, visualizing network for personal information (such as email or address),
