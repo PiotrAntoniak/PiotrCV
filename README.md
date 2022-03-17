@@ -24,13 +24,25 @@ Thesis: Evaluation of the post-crisis monetary policy in the USA using Taylor ru
 -	Deploying Minimum Value Project ML models to AWS, using Lambda Services, EC2 and SageMaker.
 
 Project I worked on:
--	Fraud detection for car dealerships: explainable AI for predictions delivered by xgboost model, visualizing network for personal information (such as email or address),
 
--	Building a search and retrieval system for internal data drive and confluence page,
+Fraud detection for car dealerships: 
+-	explainable AI for predictions delivered by classification Machine Learning model, 
+-	visualizing network for personal information (such as email or address),
+-	deploying minimum value project into Amazon Web Services using Lambda Functions and EC2,
+-	building basic Graphical User Interface and executables then presenting in front of stakeholders.
 
--	Customer feedback: mapping out most popular topics in an unsupervised and zero-shot manner, worked on how to avoid people being unhappy about certain issues (which included basic ML), replacing old model that classified feedback with a SOTA transformer
 
--	Customer Lifetime Value for dealerships and predicting whether the customer will return
+Building a search and retrieval system for internal data drive and confluence page:
+-	Deep Learning pipeline based on Sentence Transformers, Maximum Inner Product Search and Question Answering model.
+
+Customer feedback: 
+-	mapping out most popular topics using Sentence Transformers and Zero-Shot classification,
+-	worked on how to avoid people being unhappy about certain issues, 
+-	implementing a series of Natural Language Processing models for feedback classification.
+
+Customer Lifetime Value:
+-	Developing Machine learning model to predict how much the customer will spend on the next car purchase (a mix of regression and classification task)
+
 
 
 October 2017 – June 2020:
