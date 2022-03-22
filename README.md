@@ -18,7 +18,10 @@ Thesis: Evaluation of the post-crisis monetary policy in the USA using Taylor ru
 (Keywords: monetary policy, Taylor Rule, Zero-Bound)
 ### Work
 
-#### Financial Services Business Model Development Data Analyst Praktikum at BMW, October 2021 – Now:
+#### Macroprudential Policy at ECB; April 2022 - … :
+
+
+#### Financial Services Business Model Development Data Analyst Praktikum at BMW, October 2021 – April 2022:
 
 -	Statistical Analysis, Modeling, Predicting, and building databases tailored for use cases and providing basic GUI / executables to present in front of stakeholders. 
 -	Deploying Minimum Value Project ML models to AWS, using Lambda Services, EC2 and SageMaker.
