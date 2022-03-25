@@ -79,7 +79,7 @@ Other:
 
 [Open Domain QA from PDFs – working demo.](https://huggingface.co/spaces/ThePixOne/open_domain_qa)
 
-[Simple chatbot from scratch.*](https://github.com/PiotrAntoniak/simple_chatbot)
+[Simple chatbot from scratch.](https://github.com/PiotrAntoniak/simple_chatbot)
 
 [Forecasting with regularized VARs.*](https://github.com/PiotrAntoniak/Forecasting-with-regularized-VARs)
 
