@@ -19,6 +19,7 @@ Thesis: Evaluation of the post-crisis monetary policy in the USA using Taylor ru
 ### Work
 
 #### Macroprudential Policy at ECB; April 2022 - … :
+ - Stress-test moddeling
 
 
 #### Financial Services Business Model Development Data Analyst Praktikum at BMW ([references](https://github.com/PiotrAntoniak/piotrcv/blob/gh-pages/BMW_references.pdf)), October 2021 – April 2022:
