@@ -18,8 +18,8 @@ Thesis: Evaluation of the post-crisis monetary policy in the USA using Taylor ru
 (Keywords: monetary policy, Taylor Rule, Zero-Bound)
 ### Work
 
-#### Macroprudential Policy at ECB; April 2022 - … :
- - Stress-test moddeling
+#### Macroprudential Policy at ECB; April 2022 - ongoing :
+ - coding
 
 
 #### Financial Services Business Model Development Data Analyst Praktikum at BMW ([references](https://github.com/PiotrAntoniak/piotrcv/blob/gh-pages/BMW_references.pdf)), October 2021 – April 2022:
