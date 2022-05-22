@@ -84,6 +84,8 @@ Other:
 
 [Forecasting with regularized VARs.*](https://github.com/PiotrAntoniak/Forecasting-with-regularized-VARs)
 
+[GPT-2 twitter bot mimicing CentralBanks](https://twitter.com/YourAverageCB)
+
 *pure code, no comments yet
 
 ### Certificates 
