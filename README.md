@@ -4,7 +4,7 @@
 
 pedroantoniak@gmail.com <br/>
 [twitter](https://twitter.com/pedroantoniak) <br>
-[linkedin](https://www.linkedin.com/in/piotr-antoniak-d-a3b4741a9/)
+[linkedin](https://www.linkedin.com/in/piotr-antoniak-a3b4741a9/)
 
 ### Education
 #### Master’s Degree; Pompeu Fabra University and Universitat Autònoma de Barcelona, 2020-21.
