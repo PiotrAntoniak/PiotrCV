@@ -82,11 +82,9 @@ Other:
 
 [Simple chatbot from scratch.](https://github.com/PiotrAntoniak/simple_chatbot)
 
-[Forecasting with regularized VARs.*](https://github.com/PiotrAntoniak/Forecasting-with-regularized-VARs)
-
 [GPT-2 twitter bot mimicing CentralBanks](https://twitter.com/YourAverageCB)
 
-*pure code, no comments yet
+
 
 ### Certificates 
 - Stanford/DeepLearning.Ai: [1](https://www.coursera.org/account/accomplishments/verify/TUMZBPKPXWJR),[2](https://coursera.org/share/5885cbc461cb32adccc8f9ca2bfc501d),[3](https://coursera.org/share/ef2e4b0807353cc118729b1952a9f2d7)
