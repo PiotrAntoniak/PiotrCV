@@ -56,9 +56,9 @@ October 2017 – June 2020:
 
 ML/DL/Cloud computing:
 -	SVMs, Decision Trees and Random Forests, Boosting Methods, Neural Networks, unsupervised techniques. 
--	Experience working with Large Language Models like BERT/RoBERTa/GPT familiy.
+-	Experience working with Large Language Models from BERT and GPT familiy.
 -	Explainable AI. 
--	Amazon Web Services and SageMaker.
+-	Amazon Web Services.
 
 Python libraries: 
 -	Numpy, Scikit-learn, Pandas, Matplotlib, Tensorflow/Keras, pytorch, statsmodels, Scipy, NLTK, spaCy, Hugging Face and Sentence-Transformers.
@@ -69,7 +69,7 @@ Using Google.
 Polish (Native), English (Fluent).
 
 Other:
--	MATLAB, SQL, Time Series Analysis, Data Cleaning, Visualization and Analytics, Anonymization of Sensitive Data, Monte Carlo Methods, Stochastic Optimization, MS Office.
+-	MATLAB, SQL, Time Series Analysis, Data Cleaning, Visualization and Analytics, Monte Carlo Methods, Stochastic Optimization, Excel Docker.
 
 
 ### Side projects
@@ -93,9 +93,9 @@ Other:
 - MITx CS: [1](https://courses.edx.org/certificates/8e8b7ef040ec4408ad014947a92c3739),[2](https://courses.edx.org/certificates/0ae3febe0079442e973ca4b34d303592)
 - Other: [1](https://www.coursera.org/account/accomplishments/verify/CH8CYH52RU62)
 
-### Random stuff 
+### Additional Information
+- Triathlete, 
 -	T Maelgwyn Davies Prize - Best Economics Dissertation (Aberystwyth, June 2020),
 -	Experience trading alternative assets (2017-2018) and options (2019-2020),
 -	Awarded the Second Place in The Export Challenge organized by the Transport Department (Swansea, November 2018),
--	Ability to work in UK – settled status.
 -	Mentor at DeepLearning.ai
