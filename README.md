@@ -50,13 +50,13 @@ Customer Lifetime Value:
 
 
 October 2017 – June 2020:
--	Part time job in hospitality – barista, bartender, kitchen porter for two years. One year in charge of the evening kitchen.
+-	Part time job in hospitality – barista, bartender, kitchen porter. One year in charge of the evening kitchen.
 
 ### Skills
 
 ML/DL/Cloud computing:
--	SVMs, Decision Trees and Random Forests, Boosting Methods, Neural Networks, unsupervised techniques. 
--	Experience working with Large Language Models from BERT and GPT familiy.
+-	Tree Based Methods, Linear Models, Neural Networks, unsupervised and selfsupervised techniques. 
+-	Experience working with Large Pretrained NLP Models from BERT and GPT families.
 -	Explainable AI. 
 -	Amazon Web Services.
 
@@ -69,7 +69,7 @@ Using Google.
 Polish (Native), English (Fluent).
 
 Other:
--	MATLAB, SQL, Time Series Analysis, Data Cleaning, Visualization and Analytics, Monte Carlo Methods, Stochastic Optimization, Excel Docker.
+-	MATLAB, SQL, Time Series Analysis, Data Cleaning, Visualization and Analytics, Monte Carlo Methods.
 
 
 ### Side projects
