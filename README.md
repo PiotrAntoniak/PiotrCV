@@ -55,14 +55,13 @@ October 2017 – June 2020:
 ### Skills
 
 ML/DL/Cloud computing:
--	Tree Based Methods, Linear Models, Neural Networks, unsupervised and selfsupervised techniques. 
--	Experience working with Large Pretrained NLP Models from BERT and GPT families.
--	Explainable AI. 
+-	Tree Based Methods, Linear Models, Neural Networks, unsupervised and selfsupervised techniques,
+-	Experience working with Large Pretrained NLP Models from BERT and GPT families,
+-	Explainable AI,
 -	Amazon Web Services.
 
 Python libraries: 
 -	Numpy, Scikit-learn, Pandas, Matplotlib, Tensorflow/Keras, pytorch, statsmodels, Scipy, NLTK, spaCy, Hugging Face and Sentence-Transformers.
-
 
 Using Google.
 
@@ -78,7 +77,7 @@ Other:
 
 [Predictive power in online investing chatter.](https://github.com/PiotrAntoniak/M_T/blob/main/PiotrAntoniak_MT_070621.pdf)
 
-[Open Domain QA from PDFs – working demo.](https://huggingface.co/spaces/ThePixOne/open_domain_qa)
+[Open Domain Question Answering – repo.](https://github.com/PiotrAntoniak/QuestionAnswering) [Working demo.](https://huggingface.co/spaces/ThePixOne/open_domain_qa)
 
 [Simple chatbot from scratch.](https://github.com/PiotrAntoniak/simple_chatbot)
 
