@@ -18,11 +18,14 @@ Thesis: Evaluation of the post-crisis monetary policy in the USA using Taylor ru
 (Keywords: monetary policy, Taylor Rule, Zero-Bound)
 ### Work
 
-#### Macroprudential Policy at ECB; April 2022 - ongoing :
- - coding
+#### Macroprudential Policy at ECB;  2022 - ongoing :
+- Developed a tool that allows to test multiple constrains (solvency, leverage, liquidity) of Eurozone banks. It utilizes
+exposures to interest rates, sovereign bonds, industries (NACE classification) and unconventional monetary policy;
+- Fulfilled ad-hoc data requests from Supervisory Data Databases and Bloomberg Terminal using SQL and
+Bloomberg API.
 
 
-#### Financial Services Business Model Development Praktikum at BMW ([references](https://github.com/PiotrAntoniak/piotrcv/blob/gh-pages/BMW_references.pdf)), October 2021 – April 2022:
+#### Financial Services Business Model Development Praktikum at BMW ([references](https://github.com/PiotrAntoniak/piotrcv/blob/gh-pages/BMW_references.pdf)), 2021 –  2022:
 
 -	Statistical Analysis, Modeling, Predicting, and building databases tailored for use cases and providing basic GUI / executables to present in front of stakeholders. 
 -	Deploying Minimum Value Project ML models to AWS, using Lambda Services, EC2 and SageMaker.
@@ -49,7 +52,7 @@ Customer Lifetime Value:
 
 
 
-October 2017 – June 2020:
+2017 –  2020:
 -	Part time job in hospitality – barista, bartender, kitchen porter. One year in charge of the evening kitchen.
 
 ### Skills
