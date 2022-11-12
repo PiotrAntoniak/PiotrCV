@@ -54,11 +54,11 @@ Customer Lifetime Value:
 -	Developing Machine learning model to predict how much the customer will spend on the next car purchase (a mix of regression and classification task)
 
 
-
 2017 –  2020:
 -	Part time job in hospitality – barista, bartender, kitchen porter. One year in charge of the evening kitchen.
 
 ### Skills
+Using Google.
 
 ML/DL/Cloud computing:
 - Languages: Python, MATLAB, SQL
@@ -66,17 +66,6 @@ ML/DL/Cloud computing:
 - Tools: Git, Amazon Web Services, MS Office, Bloomberg API
 - Statistics/Econometrics/ML/AI: Generalized Linear Models, Random Forests, Boosting, SVM, LSTM, RNN,
 ConvNets, Transformers, MLP, Explainable-AI, Causal Inference, Time Series
-
-Python libraries: 
--	Numpy, Scikit-learn, Pandas, Matplotlib, Tensorflow/Keras, pytorch, statsmodels, Scipy, NLTK, spaCy, Hugging Face and Sentence-Transformers.
-
-Using Google.
-
-Polish (Native), English (Fluent).
-
-Other:
--	MATLAB, SQL, Time Series Analysis, Data Cleaning, Visualization and Analytics, Monte Carlo Methods.
-
 
 ### Side projects
 [Predictive power in online investing chatter.](https://github.com/PiotrAntoniak/M_T/blob/main/PiotrAntoniak_MT_070621.pdf)
