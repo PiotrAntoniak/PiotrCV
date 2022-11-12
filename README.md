@@ -19,10 +19,13 @@ Thesis: Evaluation of the post-crisis monetary policy in the USA using Taylor ru
 ### Work
 
 #### Macroprudential Policy at ECB;  2022 - ongoing :
-- Developed a tool that allows to test multiple constrains (solvency, leverage, liquidity) of Eurozone banks. It utilizes
-exposures to interest rates, sovereign bonds, industries (NACE classification) and unconventional monetary policy;
-- Fulfilled ad-hoc data requests from Supervisory Data Databases and Bloomberg Terminal using SQL and
-Bloomberg API.
+- Development of a model that allows to simulate thousands of scenarios and test multiple parallel constrains
+(solvency, leverage, liquidity) of Eurozone banks. It utilizes exposures to interest rates, sovereign bonds, industries
+(NACE) and unconventional monetary policy. The entire project is over 10k lines (with me being the major
+contributor) written in MATLAB and Python. Model’s results are included in bi-yearly ECB’s MacroPrudential
+Report and presented in front of all EuroArea Central Banks Financial Stability/MacroPrudential representatives;
+- Fulfilled ad-hoc data requests from Supervisory, Granular Interest Rates Databases and Bloomberg Terminal using
+SQL and Bloomberg API.
 
 
 #### Financial Services Business Model Development Praktikum at BMW ([references](https://github.com/PiotrAntoniak/piotrcv/blob/gh-pages/BMW_references.pdf)), 2021 –  2022:
@@ -75,17 +78,20 @@ Other:
 
 
 ### Side projects
-
-[EconBERTa - teaching computer to understand the language of economics.](https://github.com/PiotrAntoniak/EconBERTa/blob/main/EconBERTa.pdf)
-
 [Predictive power in online investing chatter.](https://github.com/PiotrAntoniak/M_T/blob/main/PiotrAntoniak_MT_070621.pdf)
+- My Master Thesis.
+- I investigated millions of comments on investing/trading forums in order to extract sentiment and check whether.
 
+users retail traders are so unskilled as claimed by various studies.
 [Open Domain Question Answering – repo.](https://github.com/PiotrAntoniak/QuestionAnswering) [Working demo.](https://huggingface.co/spaces/ThePixOne/open_domain_qa)
+A tool that can answer questions using documents given to it.
 
 [Simple chatbot from scratch.](https://github.com/PiotrAntoniak/simple_chatbot)
+- A simple chat bot that uses predefined question-answer pairs;
+- It’s simplicity is based on the fact that extending usage is just a matter of updating a .csv file.
 
 [GPT-2 twitter bot mimicing CentralBanks](https://twitter.com/YourAverageCB)
-
+- A Twitter Bot based on GPT-2 further pre-trained on speeches from major Central Banks.
 
 
 ### Certificates 
