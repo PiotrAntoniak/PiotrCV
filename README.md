@@ -61,10 +61,11 @@ Customer Lifetime Value:
 ### Skills
 
 ML/DL/Cloud computing:
--	Tree Based Methods, Linear Models, Neural Networks, unsupervised and selfsupervised techniques,
--	Experience working with Large Pretrained NLP Models from BERT and GPT families,
--	Explainable AI,
--	Amazon Web Services.
+- Languages: Python, MATLAB, SQL
+- Libraries: pandas, numpy, matplotlib/seaborn, pytorch/tensorflow, scikit-learn, scipy, pymc
+- Tools: Git, Amazon Web Services, MS Office, Bloomberg API
+- Statistics/Econometrics/ML/AI: Generalized Linear Models, Random Forests, Boosting, SVM, LSTM, RNN,
+ConvNets, Transformers, MLP, Explainable-AI, Causal Inference, Time Series
 
 Python libraries: 
 -	Numpy, Scikit-learn, Pandas, Matplotlib, Tensorflow/Keras, pytorch, statsmodels, Scipy, NLTK, spaCy, Hugging Face and Sentence-Transformers.
