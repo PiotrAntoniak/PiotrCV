@@ -80,9 +80,8 @@ Other:
 ### Side projects
 [Predictive power in online investing chatter.](https://github.com/PiotrAntoniak/M_T/blob/main/PiotrAntoniak_MT_070621.pdf)
 - My Master Thesis.
-- I investigated millions of comments on investing/trading forums in order to extract sentiment and check whether.
+- I investigated millions of comments on investing/trading forums in order to extract sentiment and check whether users retail traders are so unskilled as claimed by various studies.
 
-users retail traders are so unskilled as claimed by various studies.
 [Open Domain Question Answering – repo.](https://github.com/PiotrAntoniak/QuestionAnswering) [Working demo.](https://huggingface.co/spaces/ThePixOne/open_domain_qa)
 A tool that can answer questions using documents given to it.
 
