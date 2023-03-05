@@ -19,13 +19,13 @@ Thesis: Evaluation of the post-crisis monetary policy in the USA using Taylor ru
 ### Work
 
 #### Macroprudential Policy at ECB;  2022 - ongoing :
-- Development of a model that allows to simulate thousands of scenarios and test multiple parallel constrains
-(solvency, leverage, liquidity) of Eurozone banks. It utilizes exposures to interest rates, sovereign bonds, industries
-(NACE) and unconventional monetary policy. The entire project is over 10k lines (with me being the major
-contributor) written in MATLAB and Python. Model’s results are included in bi-yearly ECB’s MacroPrudential
-Report and presented in front of all EuroArea Central Banks Financial Stability/MacroPrudential representatives;
-- Fulfilled ad-hoc data requests from Supervisory, Granular Interest Rates Databases and Bloomberg Terminal using
-SQL and Bloomberg API.
+- Development of a top-down reverse stress testing model that allows to simulate thousands of scenarios and test
+multiple parallel constrains (solvency, leverage, liquidity) of Eurozone banks. It utilizes exposures to interest rates,
+sovereign bonds, economy on industrial levels and unconventional monetary policy. Model’s results are included in
+bi-yearly ECB’s MacroPrudential Report and presented in front of all EuroArea Central Banks Financial
+Stability/MacroPrudential representatives;
+- Fulfilled ad-hoc data requests from various, highly granular databases using SQL;
+- Management of data pipelines utilized by members of my teams.
 
 
 #### Financial Services Business Model Development Praktikum at BMW ([references](https://github.com/PiotrAntoniak/piotrcv/blob/gh-pages/BMW_references.pdf)), 2021 –  2022:
